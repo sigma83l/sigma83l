@@ -8,7 +8,9 @@ I'm Hamed.
     4. mathematics & physics
     5. quantum computing
 - Email me in the case that you had projects: <a href="mailto:hamedsedaghatgit83@gmail.com?subject=PROJECT%20ORDER&body=I%20have%20a%20project%20...">
-<strong><i>Here</i></strong></a> 
+<strong><i>Here</i></strong></a>
+
+hamedsedaghatgit83@gmail.com
 
 ## Skills
 
