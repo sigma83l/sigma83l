@@ -26,11 +26,11 @@ hamedsedaghatgit83@gmail.com
 
 ## Frameworks And Techs
 
-![nodejs](https://img.shields.io/badge/-nodejs-?style=flat-square&logo=nodejs&logoColor=%2300ff0f)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![express](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=express&logoColor=%23ffffff)
 ![django](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=django&logoColor=%23ffffff)
-![react](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=react&logoColor=%23ffffff)
-![nextjs](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=nextjs&logoColor=%23ffffff)
+![React](https://img.shields.io/badge/-Reactjs-%23282C34?style=flat-square&logo=react)
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
 ![selenium](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=selenium&logoColor=%23ffffff)
 ![tensorflow](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=tensorflow&logoColor=%23ffffff)
 ![prisma](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=prisma&logoColor=%23ffffff)
