@@ -14,19 +14,29 @@ hamedsedaghatgit83@gmail.com
 
 ## Skills
 
-### Stacks
+## Stacks
 
 - [x] WEB DEVELOPMENT 
 - [x] MACHINE LEARNING
 - [x] DEVOPS
 
-### Languages
+## Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,html,css)](https://skillicons.dev)
 
-### Frameworks And Techs
+## Frameworks And Techs
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,prisma,mongodb,mysql,postgresql,vim,git)](https://skillicons.dev)
-|nodejs|express|django|react|nextjs|selenium|tensorflow|prisma|mongodb|mysql|postgresql|vim|git
-|------|-------|------|-----|------|--------|----------|------|-------|-----|----------|---|--|
+![nodejs](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=nodejs&logoColor=%23ffffff)
+![express](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=express&logoColor=%23ffffff)
+![django](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=django&logoColor=%23ffffff)
+![react](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=react&logoColor=%23ffffff)
+![nextjs](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=nextjs&logoColor=%23ffffff)
+![selenium](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=selenium&logoColor=%23ffffff)
+![tensorflow](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=tensorflow&logoColor=%23ffffff)
+![prisma](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=prisma&logoColor=%23ffffff)
+![mongodb](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=mongodb&logoColor=%23ffffff)
+![mysql](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=mysql&logoColor=%23ffffff)
+![postgresql](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=postgresql&logoColor=%23ffffff)
+![vim](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=vim&logoColor=%23ffffff)
+![postman](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=postman&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
