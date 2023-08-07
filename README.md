@@ -1,4 +1,4 @@
-<h1 style='color: #ff00ff;background_color:#101010;border-radius:10%;'> HELLO‌ THERE </h1>
+<h1 style="color: #ff00ff;background-color:#101010;border-radius:10%;"> HELLO‌ THERE </h1>
 I'm Hamed.
 - I am a full-stack developer.
 - I am intrested in
