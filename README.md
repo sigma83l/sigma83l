@@ -1,4 +1,4 @@
-<h1 style="color: indigo;background-color:#dddddd;border-radius:5%; width: 300px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Hello There</h1>
+<span style="color: indigo;background-color:#dddddd;border-radius:5%; width: 300px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Hello There</span>  
 
 I'm Hamed.
 - I am a full-stack developer.
