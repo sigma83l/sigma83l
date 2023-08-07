@@ -20,6 +20,6 @@ I'm Hamed.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,html,css)](https://skillicons.dev)
 
-### Frameworks AND‌ TECHS
+### Frameworks And Techs
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,git,prisma,mongodb,mysql,postgresql,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,prisma,mongodb,mysql,postgresql,vim,git)](https://skillicons.dev)
