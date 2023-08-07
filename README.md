@@ -29,3 +29,4 @@ hamedsedaghatgit83@gmail.com
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,prisma,mongodb,mysql,postgresql,vim,git)](https://skillicons.dev)
 |nodejs|express|django|react|nextjs|selenium|tensorflow|prisma|mongodb|mysql|postgresql|vim|git
 |------|-------|------|-----|------|--------|----------|------|-------|-----|----------|---|--|
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
