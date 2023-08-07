@@ -1,15 +1,20 @@
 # HELLO‌ THERE
-- I'm Hamed.
+I'm Hamed.
 - I am a full-stack developer.
-- I am intrested in DevOps and Machine learning. 
+- I am intrested in
+    1. DevOps
+    2. Machine learning
+    3. web development
+    4. mathematics & physics
+    5. quantum computing
 
 ## Skills
 
 ### Stacks
 
-[x] WEB DEVELOPMENT 
-[x] MACHINE LEARNING
-[x] DEVOPS
+- [X] WEB DEVELOPMENT 
+- [X] MACHINE LEARNING
+- [X] DEVOPS
 
 ### Languages
 
