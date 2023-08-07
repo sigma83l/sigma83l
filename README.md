@@ -12,9 +12,9 @@ I'm Hamed.
 
 ### Stacks
 
-- [X] WEB DEVELOPMENT 
-- [X] MACHINE LEARNING
-- [X] DEVOPS
+- [x] WEB DEVELOPMENT 
+- [x] MACHINE LEARNING
+- [x] DEVOPS
 
 ### Languages
 
