@@ -1,3 +1,3 @@
 # skills
-List of my skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+List of my skills  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,html,css)](https://skillicons.dev)
