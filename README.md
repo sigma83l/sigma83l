@@ -7,6 +7,7 @@ I'm Hamed.
     3. web development
     4. mathematics & physics
     5. quantum computing
+- Email me in the case that you had projects: <a href="hamedsedaghatgit83@gmail.com"><strong><i>Here</i></strong></a> 
 
 ## Skills
 
