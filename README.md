@@ -26,7 +26,7 @@ hamedsedaghatgit83@gmail.com
 
 ## Frameworks And Techs
 
-![nodejs](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=nodejs&logoColor=%23ffffff)
+![nodejs](https://img.shields.io/badge/-nodejs-?style=flat-square&logo=nodejs&logoColor=%2300ff0f)
 ![express](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=express&logoColor=%23ffffff)
 ![django](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=django&logoColor=%23ffffff)
 ![react](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=react&logoColor=%23ffffff)
