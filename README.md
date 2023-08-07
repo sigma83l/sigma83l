@@ -1,4 +1,4 @@
-# HELLO‌ THERE U+1F44B   
+# HELLO‌ THERE &#128075; &#x1F44B;
 
 I'm Hamed.
 - I am a full-stack developer.
