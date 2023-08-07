@@ -7,9 +7,9 @@
 
 ### Stacks
 
-[X] WEB DEVELOPMENT 
-[X] MACHINE LEARNING
-[X] DEVOPS
+[x] WEB DEVELOPMENT 
+[x] MACHINE LEARNING
+[x] DEVOPS
 
 ### Languages
 
@@ -17,4 +17,4 @@
 
 ### Frameworks AND‌ TECHS
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,asp.net,react,nextjs,selenium,tensorflow,git,prisma,mongodb,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,git,prisma,mongodb,mysql,postgresql,vim)](https://skillicons.dev)
