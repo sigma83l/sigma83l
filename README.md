@@ -22,4 +22,6 @@ I'm Hamed.
 
 ### Frameworks And Techs
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,prisma,mongodb,mysql,postgresql,vim,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,prisma,mongodb,mysql,postgresql,vim,git)](https://skillicons.dev)  
+|nodejs|express|django|react|nextjs|selenium|tensorflow|prisma|mongodb|mysql|postgresql|vim|git
+|------|-------|------|-----|------|--------|----------|------|-------|-----|----------|---|--|
