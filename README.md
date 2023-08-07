@@ -27,4 +27,4 @@ hamedsedaghatgit83@gmail.com
 
 ## Frameworks And Techs
 
-[![frameworks and technologies]("https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,prisma,mysql,postgres,mongodb,vim,postman,git" )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,prisma,mysql,postgres,mongodb,vim,postman,git)](https://skillicons.dev)
