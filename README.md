@@ -15,16 +15,16 @@ hamedsedaghatgit83@gmail.com
 
 ## Skills
 
-## Stacks
+    ## Stacks
 
-- [x] WEB DEVELOPMENT 
-- [x] MACHINE LEARNING
-- [x] DEVOPS
+    - [x] WEB DEVELOPMENT 
+    - [x] MACHINE LEARNING
+    - [x] DEVOPS
 
-## Languages
+    ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,html,css)](https://skillicons.dev)
 
-## Frameworks And Techs
+    ## Frameworks And Techs
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,prisma,mysql,postgres,mongodb,vim,postman,git)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,react,nextjs,selenium,tensorflow,prisma,mysql,postgres,mongodb,vim,postman,git)](https://skillicons.dev)
