@@ -4,16 +4,16 @@ I'm Hamed.
 - I am a full-stack developer.
 - I am intrested in
     1. DevOps
-    2. Machine learning
-    3. web development
-    4. mathematics & physics
-    5. quantum computing
-- Email me in the case that you had projects: <a href="mailto:hamedsedaghatgit83@gmail.com?subject=PROJECT%20ORDER&body=I%20have%20a%20project%20...">
+    2. Machine Learning
+    3. Web Development
+    4. Mathematics & Physics
+    5. Quantum Computing
+- Email me in the case that you had projects or needed contribution on your repository at github: <a href="mailto:hamedsedaghatgit83@gmail.com?subject=PROJECT%20ORDER&body=I%20have%20a%20project%20...">
 <strong><i>Here</i></strong></a>
 
-hamedsedaghatgit83@gmail.com
+Address: hamedsedaghatgit83@gmail.com
 
-## Skills
+## Skills =>
 
 ## Stacks
 
