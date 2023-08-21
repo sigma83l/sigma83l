@@ -23,7 +23,7 @@ hamedsedaghatgit83@gmail.com
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,html,css,qt,cpp)](https://skillicons.dev)
 
 ## Frameworks And Techs
 
