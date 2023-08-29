@@ -23,8 +23,8 @@ Address: hamedsedaghatgit83@gmail.com
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,c,html,css)](https://skillicons.dev)
 
 ## Frameworks And Techs
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,react,nextjs,redux,selenium,tensorflow,prisma,mysql,postgres,mongodb,vim,docker,kubernetes,bash,linux,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,react,nextjs,redux,selenium,tensorflow,prisma,mysql,postgres,mongodb,sqlite,vim,docker,kubernetes,bash,linux,postman,git)](https://skillicons.dev)
