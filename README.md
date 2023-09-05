@@ -21,6 +21,9 @@ Address: hamedsedaghatgit83@gmail.com
 - [x] MACHINE LEARNING
 - [x] DEVOPS
 
+
+[![mnn59 github stats](https://github-readme-stats.vercel.app/api?username=sigma83l&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/sigma83l)
+
 ## Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,c,html,css)](https://skillicons.dev)
@@ -28,5 +31,3 @@ Address: hamedsedaghatgit83@gmail.com
 ## Frameworks And Techs
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,react,nextjs,redux,selenium,tensorflow,prisma,mysql,postgres,mongodb,sqlite,vim,docker,kubernetes,bash,linux,postman,git)](https://skillicons.dev)
-
-[![mnn59 github stats](https://github-readme-stats.vercel.app/api?username=sigma83l&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/sigma83l)
