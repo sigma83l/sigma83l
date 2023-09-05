@@ -14,7 +14,10 @@ Address: hamedsedaghatgit83@gmail.com
 
 ## Skills =>
 
+[![mnn59 github stats](https://github-readme-stats.vercel.app/api?username=sigma83l&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/sigma83l)
+
 ## Stacks
+
 
 - [x] WEB DEVELOPMENT 
 - [x] MACHINE LEARNING
