@@ -22,12 +22,12 @@ Address: hamedsedaghatgit83@gmail.com
 - [x] DEVOPS
 
 
-[![mnn59 github stats](https://github-readme-stats.vercel.app/api?username=sigma83l&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/sigma83l)
+[![github stats](https://github-readme-stats.vercel.app/api?username=sigma83l&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/sigma83l)
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,cpp,c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,cs,cpp,c,html,css)](https://skillicons.dev)
 
 ## Frameworks And Techs
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,react,nextjs,redux,selenium,tensorflow,prisma,mysql,postgres,mongodb,sqlite,vim,docker,kubernetes,bash,linux,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nest,django,react,nextjs,redux,selenium,tensorflow,prisma,graphql,mysql,postgres,mongodb,sqlite,vim,docker,kubernetes,bash,linux,postman,git)](https://skillicons.dev)
