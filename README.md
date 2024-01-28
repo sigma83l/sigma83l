@@ -3,10 +3,10 @@
 I'm Hamed.
 - I am a full-stack developer.
 - I am intrested in
-    1. DevOps
+    1. Web Development
     2. Machine Learning
-    3. Web Development
-    4. Mathematics & Physics
+    3. DevOps
+    4. Mathematics
 - Email me in the case that you had projects or needed contribution on your repository at github: <a href="mailto:hamedsedaghatgit83@gmail.com?subject=PROJECT%20ORDER&body=I%20have%20a%20project%20...">
 <strong><i>Here</i></strong></a>
 
