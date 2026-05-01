@@ -30,4 +30,4 @@ Address: hamedsedaghatgit83@gmail.com
 
 ## Frameworks And Techs
 
-[![My Skills](https://skillicons.dev/icons?i=express,nest,django,react,nextjs,redux,selenium,tensorflow,prisma,graphql,mysql,postgres,mongodb,sqlite,vim,docker,kubernetes,bash,linux,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nest,django,react,nextjs,supabase,redux,selenium,tensorflow,prisma,graphql,mysql,postgres,mongodb,sqlite,vim,docker,kubernetes,bash,linux,postman,git)](https://skillicons.dev)
